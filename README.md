@@ -2,7 +2,7 @@
 
 {Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-{This is a software that will say hello to you}
+{This is a software that will say you're beautiful}
 
 {Describe your purpose for creating this software.}
 
