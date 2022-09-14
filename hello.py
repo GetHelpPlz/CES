@@ -1,2 +1,1 @@
-print ("hello world")
-print ("change")
+print ("You're beautiful")
