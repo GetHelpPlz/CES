@@ -4,7 +4,7 @@
 
 {This is a software that will say you're beautiful}
 
-{Describe your purpose for creating this software.}
+{I want those people who failed or think they are lost can hear someone say you're beautiful hopefully can help them}
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
@@ -14,7 +14,7 @@
 
 {Describe the tools that you used to develop the software}
 
-{Describe the programming language that you used}
+{python}
 
 # Useful Websites
 
