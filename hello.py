@@ -1,1 +1,1 @@
-print ("You're beautiful")
+print ("Hello Word")
