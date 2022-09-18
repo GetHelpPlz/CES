@@ -6,7 +6,7 @@
 
 {This is a new baby just came out my hand, my first work into the coding world}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=--MsPnYKlR0)
 
 # Development Environment
 
